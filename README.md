@@ -1,6 +1,4 @@
-### Hi there 👋 , I'm Idahosa Joshua
-
-# 💫 About Me:
+# 💫 Hi there 👋 , I'm Idahosa Joshua
 A frontend Engineer valued for driving high performance and web accessible web experiences.<br>
 
 - 🌱 I’m currently learning TypeScript
