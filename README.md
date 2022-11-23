@@ -1,5 +1,5 @@
 # 💫 Hi there 👋 , I'm Idahosa Joshua
-A frontend Engineer valued for driving high performance and web accessible web experiences.<br>
+A frontend Engineer valued for driving high performance and web accessible experiences.<br>
 
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about React & TypeScript 
