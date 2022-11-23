@@ -5,8 +5,8 @@ A frontend Engineer valued for driving high performance and web accessible web e
 
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about React & TypeScript 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/idahosa-joshua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sazzy_io) ...
-- ⚡ Fun fact: I mostly bite my fingers whenever I'm trying to fixa bug😂
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/idahosa-joshua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sazzy_io) 
+- ⚡ Fun fact: I mostly bite my fingers whenever I'm trying to fix a bug😂
 -->
 
 ## 🌐 Socials:
