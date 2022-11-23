@@ -3,7 +3,7 @@ A frontend Engineer valued for driving high performance and web accessible exper
 
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about React & TypeScript 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/idahosa-joshua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sazzy_io) 
+- 📫 How to reach me:[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/still_doing_the_most_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/idahosa-joshua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sazzy_io) 
 - ⚡ Fun fact: I mostly bite my fingers whenever I'm trying to fix a bug😂
 -->
 
