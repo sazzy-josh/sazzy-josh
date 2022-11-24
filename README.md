@@ -1,4 +1,4 @@
-## 💫 Hi👋 , I'm Idahosa Joshua
+<h2 align='center'>💫 Hi👋 , I'm Idahosa Joshua</h2>
 A frontend Engineer valued for driving high performance and web accessible experiences.<br>
 
 - 🌱 I’m currently learning Vue.js
