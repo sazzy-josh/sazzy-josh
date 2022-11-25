@@ -1,10 +1,14 @@
 <h2 align='center'>💫 Hi👋 , I'm Idahosa Joshua</h2>
-A frontend Engineer valued for driving high performance and web accessible experiences.<br>
+<h3 align='center'>A front-end developer focused on creating aesthetic and functional web experiences to drive user growth and engagement.
+Adept at translating designs, writing quality codes, and fostering relationships with serverside and design teams.</h3>
 
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about React & TypeScript 
-- 📫 How to reach me: idahosajoshua61@gmail.com
-- ⚡ Fun fact: I mostly bite my fingers whenever I'm trying to fix a bug😂
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **React & TypeScript** 
+
+- 📫 How to reach me: **idahosajoshua61@gmail.com**
+
+- ⚡ Fun fact: **I mostly bite my fingers whenever I'm trying to fix a bug😂**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/still_doing_the_most_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idahosa-joshua) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sazzy_io)  
