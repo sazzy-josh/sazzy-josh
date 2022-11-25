@@ -1,7 +1,7 @@
 <h2 align='center'>💫 Hi👋 , I'm Idahosa Joshua</h2>
 A frontend Engineer valued for driving high performance and web accessible experiences.<br>
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about React & TypeScript 
 - 📫 How to reach me: idahosajoshua61@gmail.com
 - ⚡ Fun fact: I mostly bite my fingers whenever I'm trying to fix a bug😂
