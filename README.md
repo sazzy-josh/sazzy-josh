@@ -28,9 +28,6 @@ Adept at translating designs, writing quality codes, and fostering relationships
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sazzy-josh&icon=5&color=1)](https://visitcount.itsvg.in)
 
