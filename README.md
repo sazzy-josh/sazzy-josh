@@ -2,7 +2,7 @@
 <h3 align='center'>A front-end developer focused on creating aesthetic and functional web experiences to drive user growth and engagement.
 Adept at translating designs, writing quality codes, and fostering relationships with serverside and design teams.</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue and also expanding my knowledge on Data Structures and Algorithm**
 
 - 💬 Ask me about **React & TypeScript** 
 
