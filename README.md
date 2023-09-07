@@ -4,7 +4,7 @@ Adept at translating designs, writing quality codes, and fostering relationships
 
 - 🌱 I’m currently learning **Vue and also expanding my knowledge on Data Structures and Algorithm**
 
-- 💬 Ask me about **React & TypeScript** 
+- 💬 Ask me about **React , Vue , Nuxt & TypeScript** 
 
 - 📫 How to reach me: **idahosajoshua61@gmail.com**
 
